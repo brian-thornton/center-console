@@ -1,7 +1,9 @@
 import { FC } from "react";
 
 const PageBody: FC = () => {
-  return <div>PageBody</div>;
+  return <div style={{height: '100vh'}}>
+    
+  </div>;
 }
 
 export default PageBody;
